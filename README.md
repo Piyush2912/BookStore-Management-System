@@ -55,6 +55,7 @@ Start the angular project
 		 
 		 
 * In MySQL Workbench use:
+
 		 create database book_store_management_system;
 		 use book_store_management_system;
 
