@@ -52,6 +52,11 @@ Start the angular project
 	
 		 spring.datasource.username
 		 spring.datasource.password
+		 
+		 
+* In MySQL Workbench use:
+		 create database book_store_management_system;
+		 use book_store_management_system;
 
 ### Congrats 👏 🎉 
 **Now everything is set up correctly and you can start exploring Piyush-Book-App ❤️** 
